@@ -1,5 +1,5 @@
 //
-// Created by zhuhaihao on 2016/12/4.
+// Created by wangkai on 2016/12/4.
 //
 
 #include "../Header/Sensor.h"
